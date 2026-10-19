@@ -2,7 +2,7 @@
 
 ## Human Made Data
 
-Please note!! This assignment brief is subject to minor ammendments.
+Please note: This assignment brief is subject to minor ammendments and corrections.
 
 This assignment is Category 2 for use of AI:
 
