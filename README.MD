@@ -2,17 +2,17 @@
 
 - [Assignment Brief](assignment.md)
 
-Name:
+# Questions
 
-Student Number: 
-
-# Screenshots
+# Data Dictionary
 
 # Description of the project
 
 # Instructions for use
 
 # How it works:
+
+# Findings
 
 # List of files in the project
 
