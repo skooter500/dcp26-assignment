@@ -1,6 +1,6 @@
 # Data Centric Programming Assignment 2025
 
-- [Assignment Brief](assignment.md)
+- [Assignment Brief](dataset_assignment.md)
 
 # Questions
 
