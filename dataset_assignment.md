@@ -43,7 +43,7 @@ The point of this assignment is **human effort**. The marks for data collection 
 
 - Counting things with your own eyes (birds at the feeder, red cars passing in 10 minutes, people on the Luas)
 - Measuring things with instruments: a ruler, kitchen scales, a thermometer, a stopwatch, the step counter on your phone - **as long as you read the value and write it down yourself**
-- Rating things yourself on a scale you define (mood, energy, how good the coffee was)
+- Rating things yourself on a scale you define (mood, energy, how much you liked the Monster)
 - Recording things that happen to you (what time the bus arrived, how much lunch cost)
 
 **Not allowed:**
