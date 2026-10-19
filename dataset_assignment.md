@@ -17,7 +17,7 @@ This assignment is Category 2 for use of AI:
 
 ### The brief!
 
-The internet has many datasets created by others. This year you are going to make your own.
+The internet has many datasets created by others. Now you are going to make your own.
 
 Pick something in your life that you can **measure or count every day**. Go out and record it - by hand - day after day, for the rest of the semester. Then build a Python application that stores your data in a database, analyses it with pandas, and lets a user explore it and find out something interesting.
 
